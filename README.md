@@ -109,4 +109,7 @@ Execute the program
 </html>
 ```
 # OUPUT
+![Screenshot 2023-04-18 080741](https://user-images.githubusercontent.com/121300272/232657217-c690dba6-74dc-4ab2-a259-33e5eb8ffa1b.png)
+
+# RESULT
 Timetable created successfully with the help of HTML.
